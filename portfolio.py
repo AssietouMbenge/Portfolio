@@ -2,7 +2,8 @@ import streamlit as st
 
 st.header("A propos de moi")
 st.write("Technicienne superieur en geomatique, passionée par l'analyse spatiale et l'amenagement du territoire. Interessée par la conception de batiment. J'aime notamment la programmation et le travail sur les bases de données spatiales")
-
+with st.sidebar:
+ st.image("assia.jpg",width=170)
 with st.sidebar:
  st.title("Assietou Laye Mbengue")
  st.subheader("Geomaticienne")
