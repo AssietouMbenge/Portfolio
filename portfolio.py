@@ -39,7 +39,7 @@ st.markdown("""
 """)
 with st.sidebar:
  st.title("Assietou Laye Mbengue")
- st.image("assia.jpg.jpg",width=170)
+ st.image("assia.jpg",width=170)
  st.subheader("Geomaticienne")
  st.write("Email : assialayemb@gmail.com")
  st.write("Telephone : +221 77 869 72 77")
