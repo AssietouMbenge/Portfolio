@@ -6,7 +6,6 @@ st.write("Technicienne superieur en geomatique, passionée par l'analyse spatial
 with st.sidebar:
  st.title("Assietou Laye Mbengue")
  st.subheader("Geomaticienne")
- st.image("assia.jpg",width=170)
  st.write("Email : assialayemb@gmail.com")
  st.write("Telephone : +221 77 869 72 77")
  st.write("Adresse : Dakar, Senegal")
