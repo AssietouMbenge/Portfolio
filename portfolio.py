@@ -1,5 +1,5 @@
 import streamlit as st 
-with st.sidebar:
+###with st.sidebar:
     st.title("Assietou Laye Mbengue")
     st.subheader("Geomaticienne")
     st.image("assia.jpg",width=170)
